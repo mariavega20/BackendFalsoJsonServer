@@ -7,7 +7,7 @@
         "precioUnitario": 620.73,
         "tipoProduct": ["anillo"],
         "imagen": [
-            "https://drive.google.com/file/d/14VKR0xWgeVHnQdz2ewutVXBK-pxpEkc2/view?usp=drive_link"
+            "../../imagenes/Imagegrande.png"
         ],
         "descripcion": "anillo en baño de oro con una perla color naranja talla M",
         "stock": [
@@ -207,7 +207,7 @@
         "precioUnitario": 140.76,
         "tipoProduct": ["collar"],
         "imagen": [
-            "/imagenes/collar2.png"
+            "../../imagenes/collar2.png"
         ],
         "descripcion": "Collar elegante pomposo",
         "stock": [
@@ -224,7 +224,7 @@
         "precioUnitario": 110.76,
         "tipoProduct": ["pulsera"],
         "imagen": [
-            "/imagenes/pulsera3.jpeg"
+            "../../imagenes/pulsera3.jpeg"
         ],
         "descripcion": "Pulsera sencilla con esmeraldas",
         "stock": [
