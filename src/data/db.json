@@ -7,7 +7,7 @@
         "precioUnitario": 620.73,
         "tipoProduct": ["anillo"],
         "imagen": [
-            "/imagenes/Imagegrande.png"
+            "../../imagenes/Imagegrande.png"
         ],
         "descripcion": "anillo en baño de oro con una perla color naranja talla M",
         "stock": [
@@ -24,7 +24,7 @@
         "precioUnitario": 620.73,
         "tipoProduct": ["anillo"],
         "imagen": [
-            "/imagenes/anillos2.png"
+            "../../imagenes/anillos2.png"
         ],
         "descripcion": "anillo de oro talla S",
         "stock": [
@@ -41,7 +41,7 @@
         "precioUnitario": 700.73,
         "tipoProduct": ["anillo"],
         "imagen": [
-            "/imagenes/anillo3.png"
+            "../../imagenes/anillo3.png"
         ],
         "descripcion": "anillo con incrustaciones de diamantes talla S",
         "stock": [
@@ -58,7 +58,7 @@
         "precioUnitario": 629.73,
         "tipoProduct": ["anillo"],
         "imagen": [
-            "/imagenes/anillo4.png"
+            "../../imagenes/anillo4.png"
         ],
         "descripcion": "anillo con baño de oro con perlas y una perla",
         "stock": [
@@ -75,7 +75,7 @@
         "precioUnitario": 120.28,
         "tipoProduct": ["aretes"],
         "imagen": [
-            "/imagenes/aretes1.png"
+            "../../imagenes/aretes1.png"
         ],
         "descripcion": "Aretes elegantes para ocasiones especiales",
         "stock": [
@@ -92,7 +92,7 @@
         "precioUnitario": 220.28,
         "tipoProduct": ["aretes"],
         "imagen": [
-            "/imagenes/arete2.png"
+            "../../imagenes/arete2.png"
         ],
         "descripcion": "Aretes sencillos para uso diario",
         "stock": [
@@ -109,7 +109,7 @@
         "precioUnitario": 125.28,
         "tipoProduct": ["aretes"],
         "imagen": [
-            "/imagenes/aretes3.png"
+            "../../imagenes/aretes3.png"
         ],
         "descripcion": "Aretes sencillos para uso diario",
         "stock": [
@@ -126,7 +126,7 @@
         "precioUnitario": 128.28,
         "tipoProduct": ["aretes"],
         "imagen": [
-            "/imagenes/aretes4.png"
+            "../../imagenes/aretes4.png"
         ],
         "descripcion": "Aretes sencillos para uso diario",
         "stock": [
@@ -143,7 +143,7 @@
         "precioUnitario": 168.76,
         "tipoProduct": ["cadena"],
         "imagen": [
-            "/imagenes/cadena1.png"]
+            "../../imagenes/cadena1.png"]
             ,
         "descripcion": "Cadena sencilla elegante dorada",
         "stock": [
@@ -160,7 +160,7 @@
         "precioUnitario": 626.76,
         "tipoProduct": ["cadena"],
         "imagen": [
-            "/imagenes/cadena2.png"
+            "../../imagenes/cadena2.png"
         ],
         "descripcion": "Cadena sencilla con dijes de corazones dorada",
         "stock": [
@@ -177,7 +177,7 @@
         "precioUnitario": 168.76,
         "tipoProduct": ["cadena"],
         "imagen": [
-            "/imagenes/cadena2.png"
+            "../../imagenes/cadena2.png"
         ],
         "descripcion": "Cadena con dije grande con incrustaciones de color plata",
         "stock": [
@@ -194,7 +194,7 @@
         "precioUnitario": 150.76,
         "tipoProduct": ["collar"],
         "imagen": [
-            "/imagenes/collar1.png"
+            "../../imagenes/collar1.png"
         ],
         "descripcion": "Collar sencillo con esmeraldas",
         "stock": [
@@ -211,7 +211,7 @@
         "precioUnitario": 140.76,
         "tipoProduct": ["collar"],
         "imagen": [
-            "/imagenes/collar2.png"
+            "../../imagenes/collar2.png"
         ],
         "descripcion": "Collar elegante pomposo",
         "stock": [
@@ -228,7 +228,7 @@
         "precioUnitario": 110.76,
         "tipoProduct": ["pulsera"],
         "imagen": [
-            "/imagenes/pulsera3.jpeg"
+            "../../imagenes/pulsera3.jpeg"
         ],
         "descripcion": "Pulsera sencilla con esmeraldas",
         "stock": [
